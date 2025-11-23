@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/302005370566769479/46558879078148d1b3d79e0056e2da84/artifacts
+end_time: 1763832878352
+entry_point_name: ''
+experiment_id: '302005370566769479'
+lifecycle_stage: active
+run_id: 46558879078148d1b3d79e0056e2da84
+run_name: omniscient-colt-56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763832874534
+status: 3
+tags: []
+user_id: vedaantmukherjee

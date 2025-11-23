@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/302005370566769479/47837a60961f4601b3241152b9f952cf/artifacts
+end_time: 1763832114125
+entry_point_name: ''
+experiment_id: '302005370566769479'
+lifecycle_stage: active
+run_id: 47837a60961f4601b3241152b9f952cf
+run_name: clumsy-gull-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763832113917
+status: 3
+tags: []
+user_id: vedaantmukherjee

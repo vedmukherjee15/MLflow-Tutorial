@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/302005370566769479/dd484484844a4b69b6fd72af202fac24/artifacts
+deleted_time: 1763832833433
+end_time: 1763832646316
+entry_point_name: ''
+experiment_id: '302005370566769479'
+lifecycle_stage: deleted
+run_id: dd484484844a4b69b6fd72af202fac24
+run_name: powerful-horse-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763832646105
+status: 3
+tags: []
+user_id: vedaantmukherjee

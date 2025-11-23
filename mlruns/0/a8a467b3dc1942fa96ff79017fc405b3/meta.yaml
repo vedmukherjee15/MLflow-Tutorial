@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a8a467b3dc1942fa96ff79017fc405b3/artifacts
+end_time: 1763831663582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8a467b3dc1942fa96ff79017fc405b3
+run_name: rogue-sheep-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763831663344
+status: 3
+tags: []
+user_id: vedaantmukherjee
